@@ -564,3 +564,4 @@ nftset=/invidious.io.lol/4#inet#fw4#vpn_domains
 nftset=/inv.tux.pizza/4#inet#fw4#vpn_domains
 nftset=/invidious.projectsegfau.lt/4#inet#fw4#vpn_domains
 nftset=/gcore.com/4#inet#fw4#vpn_domains
+nftset=/youtube.com/4#inet#fw4#vpn_domains
