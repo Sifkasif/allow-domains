@@ -571,3 +571,4 @@ nftset=/wide-youtube.l.google.com/4#inet#fw4#vpn_domains
 nftset=/gle.com/4#inet#fw4#vpn_domains
 nftset=/yt3.ggpht.com/4#inet#fw4#vpn_domains
 nftset=/ytimg.l.google.com/4#inet#fw4#vpn_domains
+nftset=/youtube.com/4#inet#fw4#vpn_domains
