@@ -28,6 +28,7 @@ scontent-ams4-1.xx.fbcdn.net
 scontent.xx.fbcdn.net
 cdn.fbsbx.com
 internalfb.com
+oculus.com
 
 # Twitter/X. From: https://github.com/v2fly/domain-list-community/blob/master/data/twitter
 ads-twitter.com
@@ -62,11 +63,30 @@ realtimesupport.youtube.com
 studio.youtube.com
 i9.ytimg.com
 i.ytimg.com
+i.yting.com
 yt3.ggpht.com
 googlevideo.com
 www.youtube.com
 www.youtubekids.com
 googleapis.com
+youtu.be
+
+# Tik-tok
+byteoversea.com
+ibytedtos.com
+muscdn.com
+musical.ly
+tik-tokapi.com
+tiktok.com
+tiktokcdn-us.com
+tiktokcdn-eu.com
+tiktokcdn.com
+tiktokd.net
+tiktokd.org
+tiktokv.com
+tiktokv.us
+tiktokw.us
+ttwstatic.com
 
 # servarr
 translate.servarr.com
@@ -154,7 +174,6 @@ svtv.org
 mediazona.ca
 euronews.com
 news.google.com
-play.google.com
 www.azathabar.com
 rus.azathabar.com
 www.dovod.online
@@ -252,6 +271,8 @@ prostovpn.org
 vpngen.org
 amnezia.org
 cyberghostvpn.com
+getoutline.org
+vpnpay.io
 
 # Hashicorp
 hashicorp.com
@@ -262,6 +283,7 @@ helm.releases.hashicorp.com
 terraform.io
 www.terraform.io
 registry.terraform.io
+vagrantcloud.com
 
 # Lambda Labs
 lambdalabs.com
@@ -292,6 +314,7 @@ oaistatic.com
 cdn.oaistatic.com
 oaiusercontent.com
 platform.openai.com
+ios.chat.openai.com
 
 # blocked in Crimea
 reactflow.dev
@@ -317,6 +340,7 @@ digitalocean.com
 godaddy.com
 hetzner.com
 accounts.hetzner.com
+webnames.ca
 
 # Intel
 intel.com
@@ -330,20 +354,29 @@ corpredirect.intel.com
 downloadmirror.intel.com
 elqtrk.intel.com
 starget.intel.com
-pornhub.com
 geolocation.onetrust.com
 
 # Torrent trackers
 nnmclub.to
 filmitorrent.net
+fast-torrent.club
+kinozal.guru
+torrentgalaxy.to
 
 # Media
 lostfilmtv2.site
 static.lostfilm.top
+filmix.fm
+api.service-kp.com
 
 # Media DB
 www.theaudiodb.com
 theaudiodb.com
+themoviedb.org
+tmdb.org
+image.tmdb.org
+api.themoviedb.org
+tmdb-image-prod.b-cdn.net
 
 # IT
 bell-sw.com
@@ -362,30 +395,57 @@ cpu-monkey.com
 mailo.com
 pages.dev
 cock.li
+leafletjs.com
+ocstore.com
+codeium.com
+
+# Programs
+zbigz.com
 
 # AI
 remove.bg
 ai-chat.bsg.brave.com
 groq.com
+recraft.ai
 
 # Microchips
 tsmc.com
 www.ti.com
 mouser.fi
+analog.com
+
+# Nvidia
+geforcenow.com
+gfn.am
+
+# Notion
+notion.so
+www.notion.so
+exp.notion.so
+msgstore.www.notion.so
+#cdn.statically.io
+notion.com
+notion.new
+notion.site
+notion-static.com
 
 # Info
 ntc.party
 4pda.to
 habr.com
+dpidetector.org
 
 # Shops out
 www.bestbuy.com
 allegro.pl
 walmart.com
+bumble.com
 goodreads.com
+gr-assets.com
 
 # Shops in
 freedomletters.org
+babook.org
 
 # Porn
 xvideos.com
@@ -393,8 +453,13 @@ hqporner.com
 attachments.f95zone.to
 reddxxx.com
 redgifs.com
+xv-ru.com
+pornhub.com
+playboy.com
+multporn.net
+rule34.art
 
-# Anime
+# Anime + dorama
 bato.to
 gelbooru.com
 danbooru.donmai.us
@@ -403,7 +468,9 @@ vndb.org
 dorama.live
 doramalive.ru
 doramy.club
+mydoramy.club
 mangahub.ru
+shikimori.me
 
 # Salesforce
 salesforce.com
@@ -421,6 +488,54 @@ sfdcopens.com
 site.com
 trailblazer.me
 trailhead.com
+
+# sky.com
+sky.com
+digitalcontent.sky
+skycdp.com
+
+# Supercell
+supercell.com
+id.supercell.com
+clashofclans.com
+brawlstarsgame.com
+clashroyaleapp.com
+squadbustersgame.com
+
+# Games
+riotpixels.com
+
+# Messengers
+threema.ch
+signal.org
+
+# SimpleX Chat
+simplex.chat
+simplex.im
+smp1.adminforge.de
+smp2.adminforge.de
+smp3.adminforge.de
+
+# Discord
+dis.gd 
+discord.co 
+discord.com 
+discord.design 
+discord.dev 
+discord.gg 
+discord.gift 
+discord.gifts 
+discord.media 
+discord.new 
+discord.store 
+discord.tools 
+discordapp.com 
+discordapp.net 
+discordmerch.com 
+discordpartygames.com 
+discord-activities.com 
+discordactivities.com 
+discordsays.com
 
 # Other
 saverudata.net
@@ -493,6 +608,10 @@ baginya.org
 linktr.ee
 lib.rus.ec
 hdrezka.ag
+hdrezka.ac
+static.hdrezka.ac
+voidboost.cc
+stream.voidboost.cc
 rezka.ag
 rezka.my
 spreadthesign.com
@@ -511,7 +630,6 @@ ldoceonline.com
 twirpx.com
 capcut.com
 decrypt.day
-id.supercell.com
 amdm.ru
 firefly.adobe.com
 ficbook.net
@@ -531,3 +649,51 @@ ozi-ru.org
 ahrefs.com
 zendesk.com
 kaktus.media
+kinovod.net
+cloudex.cc
+surveymonkey.com
+smassets.net
+f1.com
+formula1.com
+xbox.com
+sdxcentral.com
+premierleague.com
+footballapi.pulselive.coms
+ign.com
+howlongtobeat.com
+hotels.com
+plugshare.com
+volkswagen-classic-parts.com
+wiki.fextralife.com
+bitdefender.com
+coursera.org
+4pna.com
+skiff.com
+mailfence.com
+buymeacoffee.com
+prowlarr.com
+swissinfo.ch
+ign.com
+gofundme.com
+buanzo.org
+flipboard.com
+digikey.com
+skladchik.com
+lolz.guru
+skladchiki.pro
+skladchina.vip
+keysight.com
+nxp.com
+upwork.com
+nike.com
+adidas.com
+abercrombie.com
+hollisterco.com
+onshape.com
+newark.com
+elevenlabs.io
+gamedistribution.com
+archive.ph
+lifehacker.com
+vice.com
+blinkshot.io
