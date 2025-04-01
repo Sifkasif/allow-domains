@@ -84,6 +84,7 @@ ipset=/bosch-home.com/vpn_domains
 ipset=/bradyid.com/vpn_domains
 ipset=/brave.com/vpn_domains
 ipset=/brawlstarsgame.com/vpn_domains
+ipset=/broadcom.com/vpn_domains
 ipset=/bsh-group.com/vpn_domains
 ipset=/btdig.com/vpn_domains
 ipset=/buanzo.org/vpn_domains
