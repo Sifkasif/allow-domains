@@ -806,6 +806,7 @@
 /ip dns static add name=pflnr.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=phoenix-dnr.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=php.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=phpbbguru.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pikabu.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pikinform.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pikuco.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -1283,7 +1284,6 @@
 /ip dns static add name=ytro.news type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yumoney.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=z-oleg.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
-/ip dns static add name=zaborona.help type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zavtra.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zaycev.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=zedom.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
