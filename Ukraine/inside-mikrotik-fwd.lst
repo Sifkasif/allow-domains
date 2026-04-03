@@ -1206,6 +1206,7 @@
 /ip dns static add name=vvdev.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=vz.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=walletone.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=warezok.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wargm.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wasd.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wdho.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
